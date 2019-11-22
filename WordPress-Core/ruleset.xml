@@ -42,7 +42,7 @@
 	<rule ref="WordPress.Arrays.ArrayIndentation"/>
 
 	<!-- Covers rule: Use real tabs and not spaces. -->
-	<rule ref="Generic.WhiteSpace.DisallowSpaceIndent"/>
+	<!-- <rule ref="Generic.WhiteSpace.DisallowSpaceIndent"/> -->
 	<rule ref="WordPress.WhiteSpace.PrecisionAlignment"/>
 
 	<!-- Generic array layout check. -->

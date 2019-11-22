@@ -32,6 +32,7 @@
 		<exclude name="Squiz.Commenting.DocCommentAlignment.SpaceAfterStar"/>
 
 		<!-- WP doesn't require a @author value for Squiz -->
+		<exclude name="Squiz.Commenting.FileComment.Missing"/>
 		<exclude name="Squiz.Commenting.FileComment.IncorrectAuthor"/>
 		<!-- WP doesn't require a @copyright value for Squiz -->
 		<exclude name="Squiz.Commenting.FileComment.IncorrectCopyright"/>
